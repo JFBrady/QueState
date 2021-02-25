@@ -1,2 +1,2 @@
 Servers,p[show],Lamda,Mu,Sdev - Normal_2000_AggRpt
-8,25,77.55,13.34,3.65
+8,20,77.55,13.34,3.65
