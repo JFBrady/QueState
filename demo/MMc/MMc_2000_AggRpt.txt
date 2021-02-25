@@ -1,2 +1,2 @@
 Servers,p[show],Lamda,Mu,t - MMc_2000_AggRpt
-8,25,77.55,13.34,.1
+8,20,77.55,13.34,.1
