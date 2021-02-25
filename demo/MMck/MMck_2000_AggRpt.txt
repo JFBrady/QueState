@@ -1,2 +1,2 @@
 Servers,Qsize,Lamda,Mu - MMck_2000_AggRpt
-8,25,77.55,13.34
+8,20,77.55,13.34
